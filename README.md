@@ -75,6 +75,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNDk3MDY5NjItNmU4Yy00Y2M5LTg1OTQtYjdlOGUzN
 ## 📌 Author
 
 **Devang Patel**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+📧 [devangpatel10505@gmail.com]  
+🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/devang-ai/))  
 📍 India  
